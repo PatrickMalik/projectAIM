@@ -1,6 +1,6 @@
 /* projectAIM stylesheet */
 
-/* DEFAULT TAGS START */
+/* ===== DEFAULT TAGS START ===== */
 body {
   margin: 0;
   padding: 0;
@@ -14,7 +14,7 @@ a {
 }
 /* ===== DEFAULT TAGS END ===== */
 
-/* ===== HEADER START ====== */
+/* ===== HEADER START ===== */
 .header {
   color: #FFF;
   background-color: #1F3142;

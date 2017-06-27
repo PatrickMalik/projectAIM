@@ -23,7 +23,7 @@
           <a href="#">Donate</a>
         </div>
         <div class="header-login">
-          <a href="#">Login <span class="fa fa-sign-in"></span></a>
+          <a href="#">Login or Register <span class="fa fa-sign-in"></span></a>
         </div>
       </div>
     </div>
