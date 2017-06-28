@@ -12,7 +12,7 @@
     <div class="header">
       <div class="header-inner">
         <div class="header-logo">
-          <a href="#"><img src="img/projectAIM.svg" alt="Logo"></svg></a>
+          <a href="#"><img src="img/logo.svg" width="150px" height="35px" alt="logo"></a>
         </div>
         <div class="header-nav">
           <a href="#">Play</a>

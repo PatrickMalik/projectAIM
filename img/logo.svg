@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.85 28.75">
+  <style>
+    .logo {
+      font-size: 25px;
+      fill: #FFF;
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+    }
+  </style>
+  <text class="logo" transform="translate(0 21.42)">projectAIM</text>
+</svg>
